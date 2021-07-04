@@ -1,6 +1,7 @@
 #Livro de receitas
 
-Olá, bem vindo ao livro de receitas.
+OlÃ¡, bem vindo ao livro de receitas.
 
 Strogonoff de frango
-Pavê
+PavÃª
+Bolo de cenoura
